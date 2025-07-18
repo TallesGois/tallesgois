@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## 👨🏻‍💻 Talles Góis
-
-**`DevOps and Platform Engineer ☁️`**
+### **`DevOps and Platform Engineer ☁️`**
 
 <p align="left"> 
 Me chamo Talles Monteiro Góis, tenho 28 anos e sou natural de Minas Gerais. Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. 
