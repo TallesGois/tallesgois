@@ -1,16 +1,16 @@
-# Talles Gois 👩🏻‍💻
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-**`DevOps and Platform Engineer`**
+## 👨🏻‍💻 Talles Góis
 
-Me chamo Talles Monteiro Góis, tenho 28 anos e sou natural de Minas Gerais. Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.  
+**`DevOps and Platform Engineer ☁️`**
+
+<p align="left"> 
+Me chamo Talles Monteiro Góis, tenho 28 anos e sou natural de Minas Gerais. Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. 
+  
 Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando metodologias ágeis e conceitos de DevOps.
-
-<p align="left">
-  Entre em contato por aqui: ⤵️
 </p>
 
 <p align="left">
-
   <a href="tallesmonteiro0@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tallesmonteiro0@gmail.com" /></a>
 
@@ -19,106 +19,106 @@ Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando me
 
   <a href="https://www.instagram.com/talles.devops/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/talles.devops/"/></a>
-</p> 
----
+</p>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
+<i class="devicon-ansible-plain-wordmark"></i>
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="kubernetes"
+    title="kubernetes" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="helm" 
+    title="helm"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="docker"
+    title="docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="terraform" 
+    title="terraform"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Ansible"
+    title="Ansible" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="ArgoCD" 
+    title="ArgoCD"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg"
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="GitHub-Actions" 
+    title="GitHub-Actions"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Grafana"
+    title="Grafana" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Prometheus"
+    title="Prometheus" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="GCP" 
+    title="GCP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
 <img 
     align="left" 
@@ -136,12 +136,26 @@ Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="YAML" 
+    title="YAML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -158,4 +172,4 @@ Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando me
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TallesGois&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> 
