@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### **`DevOps and Platform Engineer ☁️`**
+### **`☁️ DevOps and Platform Engineer`**
 
 <p align="left"> 
 Me chamo Talles Monteiro Góis, tenho 28 anos e sou natural de Minas Gerais. Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. 
@@ -8,6 +8,7 @@ Me chamo Talles Monteiro Góis, tenho 28 anos e sou natural de Minas Gerais. Gra
 Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando metodologias ágeis e conceitos de DevOps.
 </p>
 
+Contato: ⤵️
 <p align="left">
   <a href="tallesmonteiro0@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tallesmonteiro0@gmail.com" /></a>
@@ -20,7 +21,6 @@ Atuando em arquitetura e gerenciamento de infraestrutura em nuvem, utilizando me
 </p>
 
 ### 🤖 Tech Stack
-
 <i class="devicon-ansible-plain-wordmark"></i>
 <img 
     align="left" 
